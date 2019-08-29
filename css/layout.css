@@ -325,7 +325,7 @@ ul#nav li.current a {
     padding-right: 10%;
 }
 
-#resume .education, .research, .awards {
+#resume .education, .research, .awards, .publication {
     margin-bottom: 48px;
     padding-bottom: 24px;
     border-bottom: 1px solid #E8E8E8;
